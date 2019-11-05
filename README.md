@@ -4,14 +4,14 @@
 
 Koa is one of the widely used web frameworks in Node.js. It can be built easily for microservice on KintoHub!
 
-[Live Example](https://8caf94bb-c2e5-45cf-898d-ca5b19954cda.api.master.kintohub.com/express-example/hello/wolrd)
+[Live Example](https://8caf94bb-c2e5-45cf-898d-ca5b19954cda.api.master.kintohub.com/koa-example/hello/wolrd)
 
 __About KintoHub:__
 
 KintoHub aligns teams to ship & operate cloud native apps with ease. [Learn More](https://www.kintohub.com)
 
 ## Deployment
-1. Apply this template to your [Github](https://github.com/kintohub/express-example/generate)
+1. Apply this template to your [Github](https://github.com/kintohub/koa-example/generate)
 2. Create a [Microservice Block](https://docs.kintohub.com/docs/kintoblocks/microservices) on KintoHub
 3. Connect your GithubApp to KintoHub and select the Repository you just generated on your account.
 4. Set the **name** of your kinto block
@@ -51,7 +51,7 @@ curl -X GET http://<EnvironmentHostName>/<KintoBlockName>/hello/world
 ```
 Please refer to [Accessing API Endpoints](https://docs.kintohub.com/docs/features/operating/accessing-endpoints) for the setup instruction
 
-Try this [Live Example](https://8caf94bb-c2e5-45cf-898d-ca5b19954cda.api.master.kintohub.com/express-example/hello/wolrd) !
+Try this [Live Example](https://8caf94bb-c2e5-45cf-898d-ca5b19954cda.api.master.kintohub.com/koa-example/hello/wolrd) !
 
 ### Response
 ```json
